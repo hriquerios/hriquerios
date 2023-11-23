@@ -18,4 +18,6 @@ Visualize meu currículo através do link: https://www.linkedin.com/in/henriquer
 
 ## ⭐ Informações sobre minha conta GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hriquerios&show_icons=true)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hriquerios&theme=react)  ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hriquerios&theme=react)
+
+
