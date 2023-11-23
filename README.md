@@ -1,4 +1,8 @@
-💬 Olá, meu nome é Henrique e atualmente estudo Desenvolvimento de Sistemas. Aqui no meu perfil você encontrará alguns dos projetos realizados individualmente por mim e em equipe.
+## 👋 Sobre Mim
+
+Olá! Meu nome é Henrique e atualmente estudo Desenvolvimento de Sistemas e sou apaixonado por transformar ideias em soluções inovadoras. Estou sempre em busca de aprender algo novo e enfrentar desafios que me permitam crescer como desenvolvedor. 
+
+Aqui no meu perfil você encontrará alguns dos projetos realizados individualmente por mim e em equipe. Sinta-se à vontade!
 
 ## 📫 Entre em contato
 
