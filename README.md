@@ -1,6 +1,8 @@
 💬 Olá, meu nome é Henrique e atualmente estudo Desenvolvimento de Sistemas. Aqui no meu perfil você encontrará alguns dos projetos realizados individualmente por mim e em equipe.
 
-## 💼 Conecte-se comigo
+## 📫 Entre em contato
+
+Sinta-se à vontade para me contatar através do e-mail: henriquevrios@gmail.com
 
 Visualize meu currículo através do link: https://www.linkedin.com/in/henriquerios/
 
