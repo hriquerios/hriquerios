@@ -1,16 +1,16 @@
-## 👋 Sobre Mim
+## 👋 About Me
 
-Olá! Meu nome é Henrique, atualmente estudo Engenharia da Computação e sou apaixonado por transformar ideias em soluções inovadoras. Estou sempre em busca de aprender algo novo e enfrentar desafios que me permitam crescer como desenvolvedor. 
+Hello! My name is Henrique, currently studying Computer Engineering and passionate about turning ideas into innovative solutions. I'm always looking to learn something new and take on challenges that allow me to grow as a developer.
 
-Aqui no meu perfil você encontrará alguns dos projetos realizados individualmente por mim e em equipe. Sinta-se à vontade!
+Here on my profile, you'll find some of the projects I've worked on individually and as part of a team. Feel free to explore! 
 
-## 📫 Entre em contato
+## 📫 Get in touch
 
-Sinta-se à vontade para me contatar através do e-mail: henriquevrios@gmail.com
+Feel free to contact me via email: henriquevrios@gmail.com
 
-Visualize meu currículo através do link: https://www.linkedin.com/in/henriquerios/
+View my resume at: https://www.linkedin.com/in/henriquerios/
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
@@ -24,7 +24,7 @@ Visualize meu currículo através do link: https://www.linkedin.com/in/henriquer
 <code><img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CS.svg" alt="CSharp"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" alt="C"/></code>
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ GitHub Account Information
 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hriquerios&theme=react)  ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hriquerios&theme=react)
 
