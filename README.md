@@ -1,10 +1,19 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:29B5E8&height=190&section=header&text=Henrique%20Rios&fontSize=44&fontColor=ffffff&desc=Data%20Engineer&descSize=20&descAlignY=66&animation=fadeIn"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=29B5E8&center=true&vCenter=true&width=620&lines=Data+Engineer+%7C+Analytics+Engineer;Databricks+Certified+Data+Engineer+Associate;dbt+%C2%B7+SQL+%C2%B7+ELT+%C2%B7+Modern+Data+Stack" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/henriquerios/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:henriquevrios@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
+
 # 👋 Hi, I'm Henrique Rios
 
 **Data Engineer** with hands-on experience as an **Analytics Engineer** at **Indicium**, where I built end-to-end ELT pipelines for clients across the world.
 
 Before data, I spent ~8 years working as an architect. That background still shapes how I work: I care about structure, clear documentation, and building things that make sense to the people who use them. I'm also completing a **Computer Engineering** degree at UEMG Divinópolis.
-
-📫 **henriquevrios@gmail.com** · [LinkedIn](https://www.linkedin.com/in/henriquerios/)
 
 ---
 
@@ -65,3 +74,5 @@ Portuguese (native) · English · Spanish
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hriquerios&theme=react)  ![Most used languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hriquerios&theme=react)
 
 > Most of my professional work lives in private client repositories, so public stats only show part of the picture.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:29B5E8&height=110&section=footer"/>
