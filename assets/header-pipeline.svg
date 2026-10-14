@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Henrique Rios — Data Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1720"/>
+      <stop offset="0.6" stop-color="#0F2027"/>
+      <stop offset="1" stop-color="#16394A"/>
+    </linearGradient>
+    <linearGradient id="line" gradientUnits="userSpaceOnUse" x1="40" y1="0" x2="1160" y2="0">
+      <stop offset="0" stop-color="#29B5E8" stop-opacity="0"/>
+      <stop offset="0.06" stop-color="#29B5E8" stop-opacity="0.5"/>
+      <stop offset="0.94" stop-color="#29B5E8" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#29B5E8" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .sans{font-family:'Segoe UI',-apple-system,Helvetica,Arial,sans-serif}
+      .mono{font-family:ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace}
+      @keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+      @keyframes glow{0%{stroke-opacity:1;stroke-width:2.2}45%,100%{stroke-opacity:.35;stroke-width:1.5}}
+      .name{animation:up 1s ease-out both}
+      .role{animation:up 1s .35s ease-out both}
+      .tag{animation:up 1s .7s ease-out both}
+      .node rect{stroke-opacity:.35;animation:glow 1.2s ease-out infinite}
+      .n1 rect{animation-delay:.45s}
+      .n2 rect{animation-delay:1.47s}
+      .n3 rect{animation-delay:2.49s}
+      .n4 rect{animation-delay:3.5s}
+      .n5 rect{animation-delay:4.52s}
+      .n6 rect{animation-delay:5.54s}
+    </style>
+  </defs>
+
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+
+  <!-- identity -->
+  <text class="sans name" x="64" y="88" font-size="50" font-weight="700" fill="#FFFFFF">Henrique Rios</text>
+  <text class="mono role" x="66" y="122" font-size="18" letter-spacing="5" fill="#29B5E8">DATA ENGINEER</text>
+  <text class="mono tag" x="1136" y="88" font-size="14" text-anchor="end" fill="#8FA9B8">dbt · SQL · ELT · Modern Data Stack</text>
+
+  <!-- data flowing through the pipeline -->
+  <line x1="40" y1="172" x2="1160" y2="172" stroke="url(#line)" stroke-width="2"/>
+  <g fill="#29B5E8">
+    <circle cx="40" cy="172" r="4"><animate attributeName="cx" from="40" to="1160" dur="6s" begin="0s" repeatCount="indefinite"/></circle>
+    <circle cx="40" cy="172" r="4"><animate attributeName="cx" from="40" to="1160" dur="6s" begin="1.2s" repeatCount="indefinite"/></circle>
+    <circle cx="40" cy="172" r="4"><animate attributeName="cx" from="40" to="1160" dur="6s" begin="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="40" cy="172" r="4"><animate attributeName="cx" from="40" to="1160" dur="6s" begin="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="40" cy="172" r="4"><animate attributeName="cx" from="40" to="1160" dur="6s" begin="4.8s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- stages -->
+  <g class="mono" font-size="14" text-anchor="middle" fill="#FFFFFF">
+    <g class="node n1"><rect x="64" y="150" width="120" height="44" rx="10" fill="#0F2027" stroke="#29B5E8" stroke-width="1.5"/><text x="124" y="177">sources</text></g>
+    <g class="node n2"><rect x="254" y="150" width="120" height="44" rx="10" fill="#0F2027" stroke="#29B5E8" stroke-width="1.5"/><text x="314" y="177">raw</text></g>
+    <g class="node n3"><rect x="444" y="150" width="120" height="44" rx="10" fill="#0F2027" stroke="#29B5E8" stroke-width="1.5"/><text x="504" y="177">staging</text></g>
+    <g class="node n4"><rect x="634" y="150" width="120" height="44" rx="10" fill="#0F2027" stroke="#29B5E8" stroke-width="1.5"/><text x="694" y="177">intermediate</text></g>
+    <g class="node n5"><rect x="824" y="150" width="120" height="44" rx="10" fill="#0F2027" stroke="#29B5E8" stroke-width="1.5"/><text x="884" y="177">marts</text></g>
+    <g class="node n6"><rect x="1014" y="150" width="120" height="44" rx="10" fill="#0F2027" stroke="#29B5E8" stroke-width="1.5"/><text x="1074" y="177">BI</text></g>
+  </g>
+
+  <!-- orchestration -->
+  <g stroke="#8FA9B8" stroke-opacity=".45" stroke-width="1.2" fill="none">
+    <path d="M124 198 V220 M314 198 V220 M504 198 V220 M694 198 V220 M884 198 V220 M1074 198 V220"/>
+    <path d="M124 220 H1074" stroke-dasharray="4 5">
+      <animate attributeName="stroke-dashoffset" from="0" to="-18" dur="1.2s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <text class="mono" x="599" y="242" font-size="12" text-anchor="middle" fill="#8FA9B8">orchestrated</text>
+</svg>
