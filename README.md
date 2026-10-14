@@ -19,8 +19,9 @@ Before data, I spent ~8 years working as an architect. That background still sha
 
 ## 🏅 Certifications
 
-- **Databricks Certified Data Engineer Associate** — 2026
+- **Databricks Certified Data Engineer Associate**
 - **Dagster Essentials**
+- **Sigma Partner Delivery Fundamentals**
 
 ---
 
