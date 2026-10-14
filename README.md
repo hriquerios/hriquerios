@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Henrique Rios
 
-**Data Engineer** with hands-on experience as an **Analytics Engineer** at **Indicium**, where I built end-to-end ELT pipelines for a global pharmaceutical client across Latin American operations — from ingestion and orchestration to modeled data in Snowflake and dashboards in Power BI.
+**Data Engineer** with hands-on experience as an **Analytics Engineer** at **Indicium**, where I built end-to-end ELT pipelines for clients across the world.
 
 Before data, I spent ~8 years working as an architect. That background still shapes how I work: I care about structure, clear documentation, and building things that make sense to the people who use them. I'm also completing a **Computer Engineering** degree at UEMG Divinópolis.
 
